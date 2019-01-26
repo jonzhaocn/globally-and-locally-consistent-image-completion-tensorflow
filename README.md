@@ -15,34 +15,34 @@ A tensorflow implement of [Globally and locally consistent image completion](htt
 
 * The completed images are the output of completion network that trained 20 epoch.
 
-<p  style="text-align:center;">
+<p align="center">
 	<a href="/image/celeba/1_masked.png" target="_blank"><img src="/image/celeba/1_masked.png" height="128px" width="128px"></a>
 	<a href="/image/celeba/1_completed.png" target="_blank"><img src="/image/celeba/1_completed.png" height="128px" width="128px"></a>
     <a href="/image/celeba/2_masked.png" target="_blank"><img src="/image/celeba/2_masked.png" height="128px" width="128px"></a>
 	<a href="/image/celeba/2_completed.png" target="_blank"><img src="/image/celeba/2_completed.png" height="128px" width="128px"></a>
 </p>
 
-<p  style="text-align:center;">
+<p align="center">
 	<a href="/image/celeba/3_masked.png" target="_blank"><img src="/image/celeba/3_masked.png" height="128px" width="128px"></a>
 	<a href="/image/celeba/3_completed.png" target="_blank"><img src="/image/celeba/3_completed.png" height="128px" width="128px"></a>
     <a href="/image/celeba/4_masked.png" target="_blank"><img src="/image/celeba/4_masked.png" height="128px" width="128px"></a>
 	<a href="/image/celeba/4_completed.png" target="_blank"><img src="/image/celeba/4_completed.png" height="128px" width="128px"></a>
 </p>
 
-<p  style="text-align:center;">
+<p align="center">
 	<a href="/image/celeba/5_masked.png" target="_blank"><img src="/image/celeba/5_masked.png" height="128px" width="128px"></a>
 	<a href="/image/celeba/5_completed.png" target="_blank"><img src="/image/celeba/5_completed.png" height="128px" width="128px"></a>
     <a href="/image/celeba/6_masked.png" target="_blank"><img src="/image/celeba/6_masked.png" height="128px" width="128px"></a>
 	<a href="/image/celeba/6_completed.png" target="_blank"><img src="/image/celeba/6_completed.png" height="128px" width="128px"></a>
 </p>
 
-<p  style="text-align:center;">
+<p align="center">
 	<a href="/image/celeba/7_masked.png" target="_blank"><img src="/image/celeba/7_masked.png" height="128px" width="128px"></a>
 	<a href="/image/celeba/7_completed.png" target="_blank"><img src="/image/celeba/7_completed.png" height="128px" width="128px"></a>
     <a href="/image/celeba/8_masked.png" target="_blank"><img src="/image/celeba/8_masked.png" height="128px" width="128px"></a>
 	<a href="/image/celeba/8_completed.png" target="_blank"><img src="/image/celeba/8_completed.png" height="128px" width="128px"></a>
 </p>
-<p  style="text-align:center;">
+<p align="center">
 	<a href="/image/celeba/9_masked.png" target="_blank"><img src="/image/celeba/9_masked.png" height="128px" width="128px"></a>
 	<a href="/image/celeba/9_completed.png" target="_blank"><img src="/image/celeba/9_completed.png" height="128px" width="128px"></a>
     <a href="/image/celeba/10_masked.png" target="_blank"><img src="/image/celeba/10_masked.png" height="128px" width="128px"></a>
@@ -58,35 +58,35 @@ A tensorflow implement of [Globally and locally consistent image completion](htt
 
 - The completed images are the output of completion network that trained 50 epoch.
 
-<p  style="text-align:center;">
+<p align="center">
 	<a href="/image/imagenet/1_masked.png" target="_blank"><img src="/image/imagenet/1_masked.png" height="128px" width="128px"></a>
 	<a href="/image/imagenet/1_completed.png" target="_blank"><img src="/image/imagenet/1_completed.png" height="128px" width="128px"></a>
     <a href="/image/imagenet/2_masked.png" target="_blank"><img src="/image/imagenet/2_masked.png" height="128px" width="128px"></a>
 	<a href="/image/imagenet/2_completed.png" target="_blank"><img src="/image/imagenet/2_completed.png" height="128px" width="128px"></a>
 </p>
 
-<p  style="text-align:center;">
+<p align="center">
 	<a href="/image/imagenet/3_masked.png" target="_blank"><img src="/image/imagenet/3_masked.png" height="128px" width="128px"></a>
 	<a href="/image/imagenet/3_completed.png" target="_blank"><img src="/image/imagenet/3_completed.png" height="128px" width="128px"></a>
     <a href="/image/imagenet/4_masked.png" target="_blank"><img src="/image/imagenet/4_masked.png" height="128px" width="128px"></a>
 	<a href="/image/imagenet/4_completed.png" target="_blank"><img src="/image/imagenet/4_completed.png" height="128px" width="128px"></a>
 </p>
 
-<p  style="text-align:center;">
+<p align="center">
 	<a href="/image/imagenet/5_masked.png" target="_blank"><img src="/image/imagenet/5_masked.png" height="128px" width="128px"></a>
 	<a href="/image/imagenet/5_completed.png" target="_blank"><img src="/image/imagenet/5_completed.png" height="128px" width="128px"></a>
     <a href="/image/imagenet/6_masked.png" target="_blank"><img src="/image/imagenet/6_masked.png" height="128px" width="128px"></a>
 	<a href="/image/imagenet/6_completed.png" target="_blank"><img src="/image/imagenet/6_completed.png" height="128px" width="128px"></a>
 </p>
 
-<p  style="text-align:center;">
+<p align="center">
 	<a href="/image/imagenet/7_masked.png" target="_blank"><img src="/image/imagenet/7_masked.png" height="128px" width="128px"></a>
 	<a href="/image/imagenet/7_completed.png" target="_blank"><img src="/image/imagenet/7_completed.png" height="128px" width="128px"></a>
     <a href="/image/imagenet/8_masked.png" target="_blank"><img src="/image/imagenet/8_masked.png" height="128px" width="128px"></a>
 	<a href="/image/imagenet/8_completed.png" target="_blank"><img src="/image/imagenet/8_completed.png" height="128px" width="128px"></a>
 </p>
 
-<p  style="text-align:center;">
+<p align="center">
 	<a href="/image/imagenet/9_masked.png" target="_blank"><img src="/image/imagenet/9_masked.png" height="128px" width="128px"></a>
 	<a href="/image/imagenet/9_completed.png" target="_blank"><img src="/image/imagenet/9_completed.png" height="128px" width="128px"></a>
     <a href="/image/imagenet/10_masked.png" target="_blank"><img src="/image/imagenet/10_masked.png" height="128px" width="128px"></a>
